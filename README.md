@@ -67,7 +67,7 @@ To install and run the Bookstore Management System locally, follow these steps:
 2.  Navigate to the project directory:
 
     ```bash
-    cd online-bookstore-management-system
+    cd online-bookstore-system
 
     ```
 
