@@ -28,12 +28,6 @@ public class AdminFrame extends JFrame {
 		setVisible(true);
 	}
 
-	private void showLoginPanel() {
-		mainPanel.removeAll();
-		mainPanel.setLayout(new FlowLayout(FlowLayout.CENTER, 10, 20));
-
-		JLabel usernameLabel = new JLabel("Username:");
-		JTextField usernameField = new JTextField();
 		usernameField.setPreferredSize(new Dimension(200, 30));
 
 		JLabel passwordLabel = new JLabel("Password:");
