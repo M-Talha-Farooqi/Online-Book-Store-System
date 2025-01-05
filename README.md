@@ -80,8 +80,9 @@ To install and run the Bookstore Management System locally, follow these steps:
 
 4.  Run the application:
 
-        ```bash
-        mvn exec:java
+    ```bash
+      mvn exec:java
+    ```
 
     The application should now run in your terminal or command prompt.
 
