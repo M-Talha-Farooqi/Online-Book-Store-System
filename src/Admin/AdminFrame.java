@@ -28,12 +28,6 @@ public class AdminFrame extends JFrame {
 		setVisible(true);
 	}
 
-/*************  ✨ Codeium Command ⭐  *************/
-	/**
-	 * Sets up the login panel, where the administrator can enter their username
-	 * and password to access the admin panel.
-	 */
-/******  fe2ffb5f-754d-4f9c-b324-c0347ed95c3e  *******/
 	private void showLoginPanel() {
 		mainPanel.removeAll();
 		mainPanel.setLayout(new FlowLayout(FlowLayout.CENTER, 10, 20));
