@@ -8,7 +8,6 @@ This is a Command-Line Interface (CLI) based Bookstore Management System develop
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Technologies Used](#technologies-used)
-  - [File Structure](#file-structure)
   - [Installation](#installation)
   - [Collaborators](#collaborators)
 
@@ -53,8 +52,6 @@ The core features of the Bookstore Management System are as follows:
 - **Text-based CLI** - Command-Line Interface for interaction
 
 ---
-
-## File Structure
 
 ## Installation
 
